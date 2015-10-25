@@ -1,4 +1,4 @@
-## CodeBook for Samsung Galaxy Data
+## CodeBook for 'submission.txt'
 ### Getting and Cleaning Data Coursera Project  
 
 Last updated 2015-10-25 10:22PM Rob Grant
