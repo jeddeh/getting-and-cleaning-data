@@ -1,4 +1,4 @@
-## README for 'getting and cleaning data' repository
+## README for 'getting-and-cleaning-data' repository
 ### Getting and Cleaning Data Coursera Project  
 
 Last updated 2015-10-25 10:40PM Rob Grant
