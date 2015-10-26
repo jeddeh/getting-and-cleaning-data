@@ -39,26 +39,26 @@ The selected fields are fields involving the mean and standard deviation of devi
 3. tBodyAcc-mean()-X
 4. tBodyAcc-mean()-Y
 5. tBodyAcc-mean()-Z
-tBodyAcc-std()-X
-tBodyAcc-std()-Y
-tBodyAcc-std()-Z
-tGravityAcc-mean()-X
-tGravityAcc-mean()-Y
-tGravityAcc-mean()-Z
-tGravityAcc-std()-X
-tGravityAcc-std()-Y
-tGravityAcc-std()-Z
-tBodyAccJerk-mean()-X
-tBodyAccJerk-mean()-Y
-tBodyAccJerk-mean()-Z
-tBodyAccJerk-std()-X
-tBodyAccJerk-std()-Y
-tBodyAccJerk-std()-Z
-tBodyGyro-mean()-X
-tBodyGyro-mean()-Y
-tBodyGyro-mean()-Z
-tBodyGyro-std()-X
-tBodyGyro-std()-Y
+6. tBodyAcc-std()-X
+7. tBodyAcc-std()-Y
+8. tBodyAcc-std()-Z
+9. tGravityAcc-mean()-X
+10. tGravityAcc-mean()-Y
+11. tGravityAcc-mean()-Z
+12. tGravityAcc-std()-X
+13. tGravityAcc-std()-Y
+14. tGravityAcc-std()-Z
+15. tBodyAccJerk-mean()-X
+16. tBodyAccJerk-mean()-Y
+17. tBodyAccJerk-mean()-Z
+18. tBodyAccJerk-std()-X
+19. tBodyAccJerk-std()-Y
+20. tBodyAccJerk-std()-Z  
+tBodyGyro-mean()-X  
+tBodyGyro-mean()-Y  
+tBodyGyro-mean()-Z  
+tBodyGyro-std()-X  
+tBodyGyro-std()-Y  
 tBodyGyro-std()-Z
 tBodyGyroJerk-mean()-X
 tBodyGyroJerk-mean()-Y
